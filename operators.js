@@ -51,3 +51,5 @@ false && false;
 // NaN
 
 // Anything that's not falsy is truthy
+
+//operators precedence mostly same as math, but refer to MDN if not sure
